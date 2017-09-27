@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Version SFC renders without crashing 1`] = `
+<span>
+  0.0.0
+</span>
+`;
