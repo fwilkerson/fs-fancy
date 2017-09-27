@@ -2,6 +2,7 @@
 
 exports[`Version SFC renders without crashing 1`] = `
 <span>
+  version: 
   0.0.0
 </span>
 `;

@@ -30,7 +30,7 @@
     "dev-client": "webpack -wd",
     "dev-server": "pm2 start --no-daemon index.js --watch",
     "lint": "prettier -l \"lib/**/*.js\"",
-    "test": "jest"
+    "test": "jest --watchAll"
   },
   "babel": {
     "presets": [
