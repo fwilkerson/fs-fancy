@@ -34,18 +34,7 @@
     "test": "jest --watchAll"
   },
   "babel": {
-    "presets": [
-      [
-        "env",
-        {
-          "targets": {
-            "node": "6.10"
-          }
-        }
-      ],
-      "react",
-      "stage-2"
-    ]
+    "presets": [["env", { "targets": { "node": "6.10" } }], "react", "stage-2"]
   },
   "prettier": {
     "singleQuote": true
